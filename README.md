@@ -6,7 +6,21 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills:  / HTML / CSS / JS / REACT / NODE
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
+
+  ### Contacts
+<a href="https://t.me/+380636045081">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:explicit1@tutanota.com">
+  <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dmytro-holdobin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+### Things I use for my projects
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,nuxt,nodejs,vite,gulp,sass)](https://skillicons.dev)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/petrenkodmytro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dima-petrenko/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://petrenkodmytro.github.io/resume/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/petrenko_dimych)  
