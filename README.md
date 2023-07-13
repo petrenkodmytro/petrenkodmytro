@@ -13,6 +13,3 @@
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,css,sass,nodejs,git,vscode,figma)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrenkodmytro)](https://github.com/anuraghazra/github-readme-stats)
-
